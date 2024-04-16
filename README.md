@@ -5,6 +5,7 @@ About me:
 - Bilingual (Macedonian, English)
 - Programming languages: C, C++, C#, Java, HTML/CSS/JavaScript, Python
 - Static typing > Dynamic typing
+- Not great at calculus :( 
 
 <!---
 BlagojaK03/BlagojaK03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
