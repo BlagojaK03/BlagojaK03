@@ -1,6 +1,6 @@
 About me: 
-- CS Student at the FCSE (2nd year, 4th semester)
-- 20 years old
+- CS Student at the FCSE (3rd year, 5th semester)
+- 21 years old
 - I love video games and music and want to get good at making both
 - Bilingual (Macedonian, English)
 - Programming languages: C, C++, C#, Java, HTML/CSS/JavaScript, Python
